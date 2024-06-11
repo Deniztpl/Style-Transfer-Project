@@ -1,5 +1,3 @@
-Sure! Here is the updated `README.md` file with the additional details:
-
 ### README.md
 
 # Image Processing and Classification Project
